@@ -18,6 +18,7 @@ A curated list of projects and practice assignments for a programmer to learn Ob
 -	[Requirements](#requirements)
 -	[Objective C Topics](#ios)
 	-	[Custom Class](#custom-class)
+	-	[Inheritance](#inheritance)
 	
 	
 -	[Contribution](#contribution)
@@ -42,9 +43,11 @@ Copyright © 2016 Aashish Tamsya. All rights reserved.
 
 ### Custom Class
 
-*	[Custom Class](/8. Custom Class/)
+*	[Project - Custom Class](https://github.com/aashishtamsya/Objective-C-For-Beginners/tree/master/8.%20Custom%20Class/ATCustomClass)
 
+### Inheritance
 
+*	[Project - Inheritance](https://github.com/aashishtamsya/Objective-C-For-Beginners/tree/master/10.%20Inheritance/ATCustomClass)
 
 ## Contribution
 
