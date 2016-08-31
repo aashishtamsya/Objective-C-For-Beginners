@@ -25,6 +25,7 @@
     return self;
 }
 
+//  Definiation of Custom Constructor 
 -(instancetype)initWithName:(NSString *)nameFrom isTail:(BOOL)isTailFrom numberOfLegs:(int)numberOfLegsFrom {
     
     self = [super init];
