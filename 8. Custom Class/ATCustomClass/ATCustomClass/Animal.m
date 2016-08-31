@@ -2,7 +2,7 @@
 //  Animal.m
 //  ATCustomClass
 //
-//  Created by Student P_07 on 30/08/16.
+//  Created by Aashish Tamsya on 30/08/16.
 //  Copyright © 2016 Aashish Tamsya. All rights reserved.
 //
 
@@ -14,7 +14,8 @@
 {
     self = [super init];
     if (self) {
-        
+
+        //  Customizing Default Constructor (kind of Dependance Injection)
         name = @"Not Available";
         numberOfLegs = 0;
         isTail = false;
@@ -24,6 +25,7 @@
     return self;
 }
 
+//  Definition of Custom Constructor
 -(instancetype)initWithName:(NSString *)nameFrom isTail:(BOOL)isTailFrom numberOfLegs:(int)numberOfLegsFrom {
     
     self = [super init];

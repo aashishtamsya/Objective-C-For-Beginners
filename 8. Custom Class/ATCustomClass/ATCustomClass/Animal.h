@@ -2,7 +2,7 @@
 //  Animal.h
 //  ATCustomClass
 //
-//  Created by Student P_07 on 30/08/16.
+//  Created by Aashish Tamsya on 30/08/16.
 //  Copyright © 2016 Aashish Tamsya. All rights reserved.
 //
 
@@ -16,18 +16,23 @@
     NSString *name;
     
 }
+//  Declaration of default constructor
 - (instancetype)init;
 
-//custom setter
+//  Example of Custom Setter Method
+//  Custom Constructor Method
 - (instancetype) initWithName:(NSString *)nameFrom
                        isTail:(BOOL) isTailFrom
                  numberOfLegs:(int) numberOfLegsFrom;
 
-//custom getter
+//  Custom Getter Method
+//  Example of Instance Method
 - (void) getInfo;
 
+//  Example of Class Method
 + (void) animalDataMembers;
 
+//  Instance Method which return name of animal (in the form of NSString)
 - (NSString *)getAnimalName;
 
 
