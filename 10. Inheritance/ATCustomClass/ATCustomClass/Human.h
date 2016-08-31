@@ -2,7 +2,7 @@
 //  Human.h
 //  ATCustomClass
 //
-//  Created by Student P_07 on 31/08/16.
+//  Created by Aashish Tamsya on 31/08/16.
 //  Copyright © 2016 Aashish Tamsya. All rights reserved.
 //
 
@@ -11,6 +11,7 @@
 
 @interface Human : Animal
 {
+    //Linking Dog Class to Animal (One to One Relationship)
     Dog *petDog;
 }
 

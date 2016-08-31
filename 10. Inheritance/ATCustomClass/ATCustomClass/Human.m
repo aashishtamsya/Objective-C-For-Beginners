@@ -2,7 +2,7 @@
 //  Human.m
 //  ATCustomClass
 //
-//  Created by Student P_07 on 31/08/16.
+//  Created by Aashish Tamsya on 31/08/16.
 //  Copyright © 2016 Aashish Tamsya. All rights reserved.
 //
 
@@ -44,6 +44,8 @@
             NSLog(@"%@ doesn't have a pet dog.",name);
         }
         else {
+            
+            //  Calling method of Dog class in Human class.
             [ownersDog getInfo];
 
         }

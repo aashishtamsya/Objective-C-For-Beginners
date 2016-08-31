@@ -2,7 +2,7 @@
 //  Dog.m
 //  ATCustomClass
 //
-//  Created by Student P_07 on 31/08/16.
+//  Created by Aashish Tamsya on 31/08/16.
 //  Copyright © 2016 Aashish Tamsya. All rights reserved.
 //
 
@@ -37,6 +37,8 @@
     return self;
 }
 
+
+//  Overriding getInfo method in parent class (Animal) in Dog Class.
 -(void)getInfo {
     
     NSString *tailMessage;
