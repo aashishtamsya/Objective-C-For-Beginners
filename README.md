@@ -57,11 +57,11 @@ Copyright © 2016 Aashish Tamsya. All rights reserved.
 <!---
 Created by Aashish Tamsya on 16/08/16.
 Copyright © 2016 Aashish Tamsya. All rights reserved.
--->
+-->ub
 
 ### Protocol
 
-*	[Project - Protocol](https://github.com/aashishtamsya/Objective-C-For-Beginners/tree/master/12.%20Protocol/ATProtocol)
+*	[Project - Protocol](https://github.com/aashishtamsya/Objective-C-For-Beginners/tree/master/12.%20Protocols/ATProtocol)
 
 ### Category
 
