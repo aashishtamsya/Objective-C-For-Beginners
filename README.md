@@ -19,8 +19,9 @@ A curated list of projects and practice assignments for a programmer to learn Ob
 -	[Objective C Topics](#ios)
 	-	[Custom Class](#custom-class)
 	-	[Inheritance](#inheritance)
-	
-	
+	-	[Property](#property)
+	-	[Protocol](#protocol)
+	-	[Category](#category)
 -	[Contribution](#contribution)
 -	[Credits](#credits)
 -	[License](#license)
@@ -48,6 +49,23 @@ Copyright © 2016 Aashish Tamsya. All rights reserved.
 ### Inheritance
 
 *	[Project - Inheritance](https://github.com/aashishtamsya/Objective-C-For-Beginners/tree/master/10.%20Inheritance/ATCustomClass)
+
+### Property
+
+*	[Project - Property](https://github.com/aashishtamsya/Objective-C-For-Beginners/tree/master/11.%20Property/ATProperties)
+
+<!---
+Created by Aashish Tamsya on 16/08/16.
+Copyright © 2016 Aashish Tamsya. All rights reserved.
+-->
+
+### Protocol
+
+*	[Project - Protocol](https://github.com/aashishtamsya/Objective-C-For-Beginners/tree/master/12.%20Protocol/ATProtocol)
+
+### Category
+
+*	[Project - Category](https://github.com/aashishtamsya/Objective-C-For-Beginners/tree/master/13.%20Category/ATCategory)
 
 ## Contribution
 
